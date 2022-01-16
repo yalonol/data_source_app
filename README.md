@@ -1,4 +1,4 @@
-# tamplate_001
+# data_source_app
 
 Run in console:
 ```bash
@@ -22,5 +22,4 @@ TBD
 Public library only  
 
 ## Comment
-A version of Python 3.8 or lower is required to install Azure-core
-A version of pandas 1.2.0 or lower is required in order to use .resample() function in time_agg_mean.py
+--
