@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/yalonfishbein/Dropbox (Personal)/Yalon/Study/Git-Repositories/tamplate_001/.venv"
+set -gx VIRTUAL_ENV "/Volumes/GoogleDrive/Shared drives/4M-Data/code/data_source_app/.venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
